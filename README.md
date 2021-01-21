@@ -51,3 +51,5 @@ A
 
 O Site https://olimpiada.ic.unicamp.br/pratique/pj/2019/f2/copos/resultado/ só compila o código se a classe criada for do tipo solucao. Assim o nome do arquivo deve ser solucao.java!
 Para fins de legibilidade o código se encontra com a classe alterada para "copos" por conta do desafio se chamar jogo dos copos. Assim a classe que o código se encontra se chama copos!
+
+# Código escrito por Guilherme Andreúce Sobreira Monteiro.  
