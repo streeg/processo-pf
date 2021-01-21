@@ -1,4 +1,4 @@
-#Processo seletivo Polícia Federal
+# Processo seletivo Polícia Federal
 
 1) Escolher um dos problemas de programação em:  https://olimpiada.ic.unicamp.br/pratique/pj/ (nível júnior ou superior)
 
@@ -10,7 +10,7 @@
 
 5) Aguardar o retorno para a marcação da entrevista.
 
-#Problema escolhido: Jogo dos copos, Fase 2 - 2019.
+## Problema escolhido: Jogo dos copos, Fase 2 - 2019.
 
 Uma brincadeira muito comum e divertida entre dois jogadores usa uma moeda e três copos opacos (ou seja, não é possível ver o que está dentro do copo olhando pela lateral do copo). Os três copos são colocados com a boca para baixo, em uma linha, um ao lado do outro, em posições que vamos chamar de A, B e C. Uma moeda é colocada embaixo de um dos copos.
 
@@ -47,7 +47,7 @@ A
 Saída
 A
 
-#Observação importante:
+## Observação importante:
 
 O Site https://olimpiada.ic.unicamp.br/pratique/pj/2019/f2/copos/resultado/ só compila o código se a classe criada for do tipo solucao. Assim o nome do arquivo deve ser solucao.java!
 Para fins de legibilidade o código se encontra com a classe alterada para "copos" por conta do desafio se chamar jogo dos copos. Assim a classe que o código se encontra se chama copos!
